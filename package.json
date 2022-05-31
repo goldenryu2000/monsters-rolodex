@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goldenryu2000.github.io",
+  "homepage": "https://goldenryu2000.github.io/monsters-rolodex/",
   "dependencies": {
     "@chakra-ui/react": "^2.1.2",
     "@emotion/react": "^11.9.0",
